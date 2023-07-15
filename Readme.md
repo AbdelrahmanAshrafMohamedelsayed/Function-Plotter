@@ -25,7 +25,7 @@ pip install PySide2 matplotlib
 3. Download the code from the repository or copy the provided code into a Python file (e.g., `function_plotter.py`).
 
 ```bash
-git clone
+git clone https://github.com/AbdelrahmanAshrafMohamedelsayed/Function-Plotter.git
 ```
 
 ## Usage
